@@ -127,7 +127,7 @@ body {
     text-decoration: none;
     color: inherit; }
     .logo-link span {
-      color: #5918df; }
+      color:red; }
 
 .loader-background {
   position: fixed;
