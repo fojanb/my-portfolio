@@ -212,7 +212,7 @@ body {
   .header-letter-1 {
     transition: all .1s; }
     .header-letter-1:hover {
-      color: #5918df;
+      color: #50fa7b;
       line-height: 0; }
       @media only screen and (max-width: 30em) {
         .header-letter-1:hover {
