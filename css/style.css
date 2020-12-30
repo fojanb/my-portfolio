@@ -125,9 +125,9 @@ body {
       border-radius: 200px; } }
   .logo-link {
     text-decoration: none;
-    color: inherit; }
+    color: #ff79c6; }
     .logo-link span {
-      color: #5918df; }
+      color: #f8f8f2; }
 
 .loader-background {
   position: fixed;
