@@ -249,7 +249,7 @@ body {
         display: none; } }
 
 #output {
-  color: #c818df;
+  color:#ff79c6;
   font-size: 3rem; }
 
 @keyframes letter-up {
