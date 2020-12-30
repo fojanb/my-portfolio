@@ -788,13 +788,13 @@ body {
   font-weight: bolder;
   text-transform: uppercase; }
   .navigation-link:link span, .navigation-link:visited span {
-    color: #5918df; }
+    color: #50fa7b; }
   @media only screen and (max-width: 40em) {
     .navigation-link:link, .navigation-link:visited {
       font-size: 1.6rem; } }
 
 .navigation-link:hover, .navigation-link:active {
-  color: #5918df;
+  color:#50fa7b;
   transform: translateY(-0.7rem) scale(1.15); }
 
 .navigation-checkbox:checked ~ .navigation-background {
