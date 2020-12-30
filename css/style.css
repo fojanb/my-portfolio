@@ -829,15 +829,15 @@ body {
     top: -1.3rem; }
 
 .navigation-btn:hover .navigation-icon {
-  background-color: #5918df; }
+  background-color:#50fa7b; }
 
 .navigation-btn:hover .navigation-icon::before {
   transform: translateX(0);
-  background-color: #c818df; }
+  background-color: #ff79c6; }
 
 .navigation-btn:hover .navigation-icon::after {
   transform: translateX(0);
-  background-color: #c818df; }
+  background-color:#ff79c6; }
 
 .navigation-checkbox:checked + .navigation-btn .navigation-icon {
   background-color: transparent; }
