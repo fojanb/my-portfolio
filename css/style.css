@@ -707,7 +707,7 @@ body {
   color: #979797; }
 
 .code-red {
-  color: red; }
+  color:#bd93f9; }
 
 .code-orange {
   color: orange; }
@@ -716,13 +716,13 @@ body {
   color: #50fa7b; }
 
 .code-yellow {
-  color: yellow; }
+  color: #f1fa8c; }
 
 .code-green {
-  color: green; }
+  color:#f8f8f2; }
 
 .code-greenyellow {
-  color: yellowgreen; }
+  color: #ff79c6; }
 
 @keyframes type {
   0% {
