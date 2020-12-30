@@ -220,22 +220,22 @@ body {
   .header-letter-2 {
     transition: all .1s; }
     .header-letter-2:hover {
-      color: #c818df;
+      color: #ff79c6;
       line-height: 0; }
       @media only screen and (max-width: 30em) {
         .header-letter-2:hover {
           font-size: 6.5rem; } }
   .header-letter-3 {
-    color: #5918df;
+    color:#50fa7b;
     transition: all .1s; }
     .header-letter-3:hover {
-      color: #c818df;
+      color:#ff79c6;
       line-height: 0; }
   .header-letter-4 {
     transition: all .1s;
-    color: #c818df; }
+    color:  #ff79c6; }
     .header-letter-4:hover {
-      color: #5918df;
+      color: #50fa7b;
       line-height: 0; }
   .header-links {
     margin-top: 3rem;
