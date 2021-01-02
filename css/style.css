@@ -123,10 +123,10 @@ body {
       border-radius: 200px; } }
   .logo-link {
     text-decoration: none;
-    margin-left: 0px;
+    margin-left: 5px;
     font-size: 20px;
-    margin-left: -30px;
     color: #ff79c6; }
+
     .logo-link span {
       color: #50fa7b; }
 
@@ -451,7 +451,18 @@ body {
   bottom: 4rem;
   left: 4rem;
   z-index: 999;
-  font-family: "Righteous", cursive; }
+  font-family: "Righteous", cursive;}
+
+    .social img{
+      opacity: 0.35;}
+
+    .social img:hover{
+      opacity: 1;
+      transition: opacity 1s;
+      transition-delay: 1s;
+      transform: rotate(5deg);
+      transform: scale(1.15,1.15);}
+
 
   @media only screen and (max-width: 56.5em) {
     .social {
@@ -919,3 +930,8 @@ body {
 .fade-in.add-animation {
   transition: opacity 1.5s ease-out;
   opacity: 1; }
+
+  img:hover{
+    opacity: 1.0;
+    transition: opacity 1s;
+  }
