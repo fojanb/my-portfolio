@@ -42,7 +42,7 @@ body {
   position: relative;
   width: 200vw;
   height: 200vh;
-  background-color: black;
+  background-color: rgb(0, 0, 8);
   color: blanchedalmond;
   overflow: hidden; }
   @media only screen and (max-width: 56.5em) {
@@ -109,7 +109,6 @@ body {
       background-image: linear-gradient(to right, #5918df, #c818df, #5918df); }
 
 .logo {
-  color: #c818df;
   position: fixed;
   top: 0;
   left: 0;
@@ -117,14 +116,16 @@ body {
   z-index: 999;
   font-size: 4rem;
   font-family: "Righteous", cursive; }
-  @media only screen and (max-width: 56.5em) {
+  @media only screen and (max-width: 768px) {
     .logo {
-      padding: 0rem;
+      padding: 3rem;
       margin: 3rem;
-      background-color: black;
       border-radius: 200px; } }
   .logo-link {
     text-decoration: none;
+    margin-left: 0px;
+    font-size: 20px;
+    margin-left: -30px;
     color: #ff79c6; }
     .logo-link span {
       color: #50fa7b; }
@@ -449,12 +450,14 @@ body {
   position: fixed;
   bottom: 4rem;
   left: 4rem;
-  z-index: 999; }
+  z-index: 999;
+  font-family: "Righteous", cursive; }
+
   @media only screen and (max-width: 56.5em) {
     .social {
       bottom: 2rem;
       left: 2rem; } }
-  .social-checkbox {
+  /* .social-checkbox {
     display: none; }
   .social-btn {
     height: 7rem;
@@ -464,8 +467,8 @@ body {
     left: 4rem;
     border-radius: 50%;
     z-index: 1000;
-    cursor: pointer; }
-    @media only screen and (max-width: 56.5em) {
+    cursor: pointer; } */
+    /* @media only screen and (max-width: 56.5em) {
       .social-btn {
         bottom: 2rem;
         left: 2rem; } }
@@ -525,7 +528,7 @@ body {
     transform: rotate(1440deg); }
   .social-checkbox:checked ~ .social-link-github {
     transform: translateY(-17rem) rotate(1080deg) scale(5);
-    filter: brightness(1.5); }
+    filter: brightness(1.5); } */
 
 @keyframes pulse {
   0% {
