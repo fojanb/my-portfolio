@@ -461,7 +461,7 @@ body {
       transition: opacity 1s;
       transition-delay: 1s;
       transform: rotate(5deg);
-      transform: scale(1.1,1.1);}
+      transform: scale(1.15,1.15);}
 
 
   @media only screen and (max-width: 56.5em) {
@@ -589,9 +589,9 @@ body {
   line-height: 100%;
   font-family: "Righteous", cursive; }
   .contact-heading-1 {
-    color: #5918df; }
+    color: #ff79c6; }
   .contact-heading-2 {
-    color: #c818df; }
+    color:#50fa7b; }
   @media only screen and (max-width: 40em) {
     .contact-heading {
       margin-left: -8%;
@@ -621,7 +621,7 @@ body {
   border: none;
   width: 45%;
   padding: .5rem;
-  border-bottom: 2px solid #5918df; }
+  border-bottom: 2px solid #ff79c6; }
   @media only screen and (max-width: 30em) {
     .contact-input {
       display: block;
