@@ -463,7 +463,6 @@ body {
       transform: rotate(5deg);
       transform: scale(1.15,1.15);}
 
-
   @media only screen and (max-width: 56.5em) {
     .social {
       bottom: 2rem;
