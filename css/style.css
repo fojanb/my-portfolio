@@ -449,19 +449,19 @@ body {
 .social {
   position: fixed;
   bottom: 4rem;
-  left: 4rem;
+  left: 2rem;
   z-index: 999;
   font-family: "Righteous", cursive;}
 
     .social img{
       opacity: 0.35;}
 
-    .social img:hover{
-      opacity: 1;
+    .social a:hover{
+      opacity: 1.0;
       transition: opacity 1s;
       transition-delay: 1s;
       transform: rotate(5deg);
-      transform: scale(1.15,1.15);}
+      transform: scale(1.1,1.1);}
 
 
   @media only screen and (max-width: 56.5em) {
