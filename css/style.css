@@ -279,7 +279,7 @@ body {
       padding-bottom: 10rem; } }
   @media only screen and (max-width: 40em) {
     .works {
-      padding-top: 10rem; } }
+      padding-top: 5rem; } }
   .works-links {
     writing-mode: vertical-lr;
     margin: 4rem;
