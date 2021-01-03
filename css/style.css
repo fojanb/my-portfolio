@@ -118,7 +118,7 @@ body {
   font-family: "Righteous", cursive; }
   @media only screen and (max-width: 768px) {
     .logo {
-      padding: 3rem;
+      padding: 0rem;
       margin: 3rem;
       border-radius: 200px; } }
   .logo-link {
