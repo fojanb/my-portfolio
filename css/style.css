@@ -222,22 +222,22 @@ body {
   .header-letter-2 {
     transition: all .1s; }
     .header-letter-2:hover {
-      color: #ff79c6;
+      color:#072aee;
       line-height: 0; }
       @media only screen and (max-width: 30em) {
         .header-letter-2:hover {
           font-size: 6.5rem; } }
   .header-letter-3 {
-    color:#50fa7b;
+    color:#072aee;
     transition: all .1s; }
     .header-letter-3:hover {
-      color:#ff79c6;
+      color:#50fa7b;
       line-height: 0; }
   .header-letter-4 {
     transition: all .1s;
-    color:  #ff79c6; }
+    color:#50fa7b; }
     .header-letter-4:hover {
-      color: #50fa7b;
+      color:#072aee;
       line-height: 0; }
   .header-links {
     margin-top: 3rem;
@@ -590,7 +590,7 @@ body {
   line-height: 100%;
   font-family: "Righteous", cursive; }
   .contact-heading-1 {
-    color: #ff79c6; }
+    color: #072aee; }
   .contact-heading-2 {
     color:#50fa7b; }
   @media only screen and (max-width: 40em) {
@@ -622,7 +622,7 @@ body {
   border: none;
   width: 45%;
   padding: .5rem;
-  border-bottom: 2px solid #ff79c6; }
+  border-bottom: 2px solid #072aee; }
   @media only screen and (max-width: 30em) {
     .contact-input {
       display: block;
