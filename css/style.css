@@ -848,11 +848,11 @@ body {
 
 .navigation-btn:hover .navigation-icon::before {
   transform: translateX(0);
-  background-color: #ff79c6; }
+  background-color: #072aee; }
 
 .navigation-btn:hover .navigation-icon::after {
   transform: translateX(0);
-  background-color:#ff79c6; }
+  background-color:#072aee; }
 
 .navigation-checkbox:checked + .navigation-btn .navigation-icon {
   background-color: transparent; }
