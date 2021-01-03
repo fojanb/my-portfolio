@@ -126,11 +126,11 @@ body {
     text-decoration: none;
     /* margin-left: 5px;
     font-size: 20px; */
-    color: #0f0cd8; }
+    color: #50fa7b; }
 
     .logo-link span {
-      color: #12ee49; }
-
+      color:#072aee; }
+      
 .loader-background {
   position: fixed;
   width: 100vw;
@@ -360,7 +360,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    color: #d5b2da; }
+    color: #99d1f1; }
     .text-reveal > span:nth-child(2) > span {
       overflow: hidden;
       transform: translateX(-100%); }
