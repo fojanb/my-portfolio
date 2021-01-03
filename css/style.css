@@ -722,7 +722,7 @@ body {
   color: #979797; }
 
 .code-red {
-  color:#e60000; }
+  color:red; }
 
 .code-orange {
   color: #8be9fd; }
@@ -731,7 +731,7 @@ body {
   color:#4588d4; }
 
 .code-yellow {
-  color: #d7eb26; }
+  color: yellow; }
 
 .code-green {
   color:#50fa7b; }
