@@ -348,7 +348,8 @@ body {
         position: absolute;
         transform: translateY(100%);
         left: 0;
-        color:#ff79c6; }
+    color: #50fa7b; }
+     
 
 .text-reveal {
   position: relative;
