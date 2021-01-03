@@ -123,8 +123,8 @@ body {
       border-radius: 200px; } }
   .logo-link {
     text-decoration: none;
-    margin-left: 5px;
-    font-size: 20px;
+    /* margin-left: 5px;
+    font-size: 20px; */
     color: #ff79c6; }
 
     .logo-link span {
