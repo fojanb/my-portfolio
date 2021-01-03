@@ -722,22 +722,22 @@ body {
   color: #979797; }
 
 .code-red {
-  color:#bd93f9; }
+  color:#e60000; }
 
 .code-orange {
   color: #8be9fd; }
 
 .code-blue {
-  color: #50fa7b; }
+  color:#4588d4; }
 
 .code-yellow {
   color: #f1fa8c; }
 
 .code-green {
-  color:#f8f8f2; }
+  color:#50fa7b; }
 
 .code-greenyellow {
-  color: #ff79c6; }
+  color: #d8b4ec; }
 
 @keyframes type {
   0% {
