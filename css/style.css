@@ -120,6 +120,7 @@ body {
     .logo {
       padding: 0rem;
       margin: 3rem;
+      background-color: black;
       border-radius: 200px; } }
   .logo-link {
     text-decoration: none;
