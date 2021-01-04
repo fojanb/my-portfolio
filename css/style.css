@@ -452,7 +452,7 @@ body {
   position: fixed;
   bottom: 4rem;
   left: 4rem;
-  
+  z-index: 111;
   }
 
   /* added by Fojan */
