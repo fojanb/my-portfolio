@@ -156,19 +156,19 @@ body {
 .loader .dot1 {
   height: 25%;
   width: 25%;
-  background-color: aqua;
+  background-color: #50fa7b;
   animation: bounce 2s cubic-bezier(0.895, 0.03, 0.685, 0.22) 0s infinite; }
 
 .loader .dot2 {
   height: 25%;
   width: 25%;
-  background-color: aqua;
+  background-color: #50fa7b;
   animation: bounce 2s cubic-bezier(0.895, 0.03, 0.685, 0.22) 0.3s infinite; }
 
 .loader .dot3 {
   height: 25%;
   width: 25%;
-  background-color: aqua;
+  background-color: #50fa7b;
   animation: bounce 2s cubic-bezier(0.895, 0.03, 0.685, 0.22) 0.7s infinite; }
 
 @keyframes bounce {
