@@ -467,8 +467,8 @@ body {
 
   @media only screen and (max-width: 56.5em) {
     .social {
-      bottom: 10rem;
-      left: 2rem; } }
+      top: 2rem;
+      right: 2rem; } }
   /* .social-checkbox {
     display: none; }
   .social-btn {
