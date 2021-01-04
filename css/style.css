@@ -447,14 +447,14 @@ body {
     .card:hover .text-reveal > span:nth-child(2) > span,
     .card:hover .text-reveal > span:nth-child(2) > span > span {
       transform: translateX(0); }
-
+/* linkedin and github */
 .social {
   position: fixed;
   bottom: 4rem;
   left: 4rem;
-  z-index: 999;
+  z-index: 1;
   }
-  
+
   /* added by Fojan */
     .social img{
       opacity: 0.35;}
