@@ -468,7 +468,13 @@ body {
   @media only screen and (max-width: 56.5em) {
     .social {
       top: 15rem;
-      right: 2rem; } }
+      right: 2rem; } 
+    .social img {
+      width: 20px;
+      height: 20px;
+
+    } 
+  }
   /* .social-checkbox {
     display: none; }
   .social-btn {
