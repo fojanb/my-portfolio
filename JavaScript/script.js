@@ -25,7 +25,7 @@ FadeIn.forEach(item => observer.observe(item))
 textAnimate();
 function textAnimate(){
     const randomLetters = "-+*/|}{[]~\\\":;?/.><=+-_)(*&^%$#@!)}";
-    const content = "A Software Developer";
+    const content = "A Front-End Developer";
     const speed = 25; // ms per frame
     const increment = 3; // frames per step. Must be >2
     
