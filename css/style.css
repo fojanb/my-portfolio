@@ -933,7 +933,7 @@ body {
 .fade-in.add-animation {
   transition: opacity 1.5s ease-out;
   opacity: 1; }
-
+/* ------------------------------------------------------- */
   img:hover{
     opacity: 1.0;
     transition: opacity 1s;
