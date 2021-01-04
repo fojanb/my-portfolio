@@ -467,13 +467,9 @@ body {
 
   @media only screen and (max-width: 56.5em) {
     .social {
-      top: 15rem;
+      top: 2rem;
       right: 2rem; } 
-    .social img {
-      width: 45px;
-      height: 45px;
-
-    } 
+    
   }
    .social-checkbox {
     display: none; }
