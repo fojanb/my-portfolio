@@ -467,7 +467,7 @@ body {
 
   @media only screen and (max-width: 56.5em) {
     .social {
-      bottom: 2rem;
+      bottom: 0rem;
       left: 2rem; } }
   /* .social-checkbox {
     display: none; }
