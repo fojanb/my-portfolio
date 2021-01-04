@@ -485,7 +485,7 @@ body {
     left: 4rem;
     border-radius: 50%;
     z-index: 1000;
-    cursor: pointer; } */
+    cursor: pointer; } 
      @media only screen and (max-width: 56.5em) {
       .social-btn {
         bottom: 2rem;
