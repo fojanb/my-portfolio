@@ -30,7 +30,7 @@ body {
 
 ::selection {
   color: white;
-  background: #c818df; }
+  background: #50fa7b; }
 
 .heading-1 {
   font-family: "Righteous", cursive;
@@ -103,10 +103,10 @@ body {
     margin: 1rem auto;
     background-color: currentColor; }
   .btn-secondary:hover {
-    color: #c818df; }
+    color:#50fa7b; }
     .btn-secondary:hover::after {
       width: 0;
-      background-image: linear-gradient(to right, #5918df, #c818df, #5918df); }
+      background-image: linear-gradient(to right, #072aee, #50fa7b,#072aee); }
 
 .logo {
   position: fixed;
@@ -251,7 +251,7 @@ body {
         display: none; } }
 
 #output {
-  color:#ff79c6;
+  color:#072aee;
   font-size: 3rem; }
 
 @keyframes letter-up {
@@ -259,7 +259,7 @@ body {
     font-size: 10rem; }
   40% {
     font-size: 9.5rem;
-    color: #c818df; }
+    color: #50fa7b; }
   100% {
     font-size: 10rem; } }
 
@@ -633,7 +633,7 @@ body {
   .contact-input:focus {
     outline: none;
     box-shadow: 0 1rem 2rem rgba(253, 252, 252, 0.199);
-    border-bottom: 2px solid #c818df; }
+    border-bottom: 2px solid #50fa7b; }
 
 .contact-submit {
   min-width: 10%; }
