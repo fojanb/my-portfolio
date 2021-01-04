@@ -468,10 +468,10 @@ body {
   @media only screen and (max-width: 56.5em) {
     .social {
       bottom: 2rem;
-      left: 2rem; } 
+      left: 4rem; } 
     
   }
-   .social-checkbox {
+   /* .social-checkbox {
     display: none; }
   .social-btn {
     height: 7rem;
@@ -553,7 +553,7 @@ body {
     filter: brightness(1.5); }
   100% {
     transform: scale(1);
-    filter: brightness(1); } }
+    filter: brightness(1); } } */
 
 .contact {
   position: absolute;
