@@ -475,7 +475,7 @@ body {
 
     } 
   }
-  /* .social-checkbox {
+   .social-checkbox {
     display: none; }
   .social-btn {
     height: 7rem;
@@ -486,7 +486,7 @@ body {
     border-radius: 50%;
     z-index: 1000;
     cursor: pointer; } */
-    /* @media only screen and (max-width: 56.5em) {
+     @media only screen and (max-width: 56.5em) {
       .social-btn {
         bottom: 2rem;
         left: 2rem; } }
@@ -546,7 +546,7 @@ body {
     transform: rotate(1440deg); }
   .social-checkbox:checked ~ .social-link-github {
     transform: translateY(-17rem) rotate(1080deg) scale(5);
-    filter: brightness(1.5); } */
+    filter: brightness(1.5); } 
 
 @keyframes pulse {
   0% {
